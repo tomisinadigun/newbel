@@ -81,7 +81,7 @@ main{
     position: absolute;
     margin-left: 35px;
     top: 0;
-    transform: translateY(380px);
+    transform: translateY(370px);
 }
 
 .input-submit button {
